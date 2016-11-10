@@ -17,6 +17,7 @@ public class Prueba001 {
     public static void main(String[] args) {
       //viche lesano
         System.out.println("pucho");
+        System.out.println("lesano");
 // TODO code application logic here
     }
     
